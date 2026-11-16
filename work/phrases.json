@@ -1,0 +1,343 @@
+{
+ "duration": 63.242438,
+ "frames30": 1897,
+ "source": "silence-align (cost 3.76)",
+ "segments": [
+  [
+   0.0,
+   1.38825
+  ],
+  [
+   1.69546,
+   3.81694
+  ],
+  [
+   3.95558,
+   4.33828
+  ],
+  [
+   4.87379,
+   5.65839
+  ],
+  [
+   6.30204,
+   7.30041
+  ],
+  [
+   7.85449,
+   10.927
+  ],
+  [
+   11.0661,
+   11.8835
+  ],
+  [
+   12.3363,
+   13.7448
+  ],
+  [
+   13.9253,
+   17.6408
+  ],
+  [
+   18.0202,
+   18.6142
+  ],
+  [
+   18.7907,
+   19.6102
+  ],
+  [
+   19.9951,
+   20.4177
+  ],
+  [
+   20.6037,
+   22.0314
+  ],
+  [
+   22.4061,
+   23.1913
+  ],
+  [
+   23.4042,
+   24.2911
+  ],
+  [
+   24.4311,
+   24.9662
+  ],
+  [
+   25.1601,
+   26.0349
+  ],
+  [
+   26.4237,
+   27.268
+  ],
+  [
+   27.7225,
+   28.1664
+  ],
+  [
+   28.29,
+   29.019
+  ],
+  [
+   29.467,
+   31.2199
+  ],
+  [
+   31.4035,
+   32.5153
+  ],
+  [
+   32.9217,
+   35.6458
+  ],
+  [
+   36.0171,
+   37.1177
+  ],
+  [
+   37.6141,
+   38.8336
+  ],
+  [
+   39.2263,
+   39.6449
+  ],
+  [
+   39.8202,
+   41.709
+  ],
+  [
+   42.0959,
+   43.6864
+  ],
+  [
+   43.8151,
+   44.7469
+  ],
+  [
+   45.1276,
+   46.6666
+  ],
+  [
+   47.1138,
+   48.0229
+  ],
+  [
+   48.3925,
+   49.8425
+  ],
+  [
+   50.2024,
+   52.2148
+  ],
+  [
+   52.6295,
+   53.2043
+  ],
+  [
+   53.3372,
+   55.6493
+  ],
+  [
+   56.126,
+   58.0965
+  ],
+  [
+   58.4988,
+   59.2399
+  ],
+  [
+   59.6428,
+   60.2017
+  ],
+  [
+   60.4046,
+   60.8773
+  ],
+  [
+   61.2972,
+   61.978
+  ],
+  [
+   62.2937,
+   62.9944
+  ]
+ ],
+ "phrases": [
+  {
+   "text": "In 1932,",
+   "s": 0.0,
+   "e": 1.388
+  },
+  {
+   "text": "the Australian army went to war with a bird.",
+   "s": 1.695,
+   "e": 4.338
+  },
+  {
+   "text": "And lost.",
+   "s": 4.874,
+   "e": 5.658
+  },
+  {
+   "text": "Western Australia.",
+   "s": 6.302,
+   "e": 7.3
+  },
+  {
+   "text": "Thousands of war veterans were farming wheat on dry,",
+   "s": 7.854,
+   "e": 10.927
+  },
+  {
+   "text": "difficult land.",
+   "s": 11.066,
+   "e": 11.883
+  },
+  {
+   "text": "Then about twenty thousand hungry emus marched in and started wrecking the crops.",
+   "s": 12.336,
+   "e": 17.641
+  },
+  {
+   "text": "The farmers begged for help.",
+   "s": 18.02,
+   "e": 19.61
+  },
+  {
+   "text": "So the government sent a major,",
+   "s": 19.995,
+   "e": 22.031
+  },
+  {
+   "text": "two soldiers,",
+   "s": 22.406,
+   "e": 23.191
+  },
+  {
+   "text": "two machine guns,",
+   "s": 23.404,
+   "e": 24.291
+  },
+  {
+   "text": "and ten thousand bullets.",
+   "s": 24.431,
+   "e": 26.035
+  },
+  {
+   "text": "The plan was simple:",
+   "s": 26.424,
+   "e": 27.268
+  },
+  {
+   "text": "finish it in days.",
+   "s": 27.723,
+   "e": 29.019
+  },
+  {
+   "text": "But the moment the guns opened fire,",
+   "s": 29.467,
+   "e": 31.22
+  },
+  {
+   "text": "the emus scattered.",
+   "s": 31.404,
+   "e": 32.515
+  },
+  {
+   "text": "They split into small groups and vanished into the bush.",
+   "s": 32.922,
+   "e": 35.646
+  },
+  {
+   "text": "The soldiers chased them.",
+   "s": 36.017,
+   "e": 37.118
+  },
+  {
+   "text": "The birds were faster.",
+   "s": 37.614,
+   "e": 38.834
+  },
+  {
+   "text": "So the major mounted a gun on a truck.",
+   "s": 39.226,
+   "e": 41.709
+  },
+  {
+   "text": "But the ground was so bumpy,",
+   "s": 42.096,
+   "e": 43.686
+  },
+  {
+   "text": "nobody could aim.",
+   "s": 43.815,
+   "e": 44.747
+  },
+  {
+   "text": "And the truck couldn't keep up anyway.",
+   "s": 45.128,
+   "e": 46.667
+  },
+  {
+   "text": "Weeks passed.",
+   "s": 47.114,
+   "e": 48.023
+  },
+  {
+   "text": "Newspapers started laughing.",
+   "s": 48.392,
+   "e": 49.843
+  },
+  {
+   "text": "Politicians started asking questions.",
+   "s": 50.202,
+   "e": 52.215
+  },
+  {
+   "text": "Finally,",
+   "s": 52.63,
+   "e": 53.204
+  },
+  {
+   "text": "the army packed up and quietly went home.",
+   "s": 53.337,
+   "e": 55.649
+  },
+  {
+   "text": "Even the major admitted he was impressed.",
+   "s": 56.126,
+   "e": 58.096
+  },
+  {
+   "text": "Final score:",
+   "s": 58.499,
+   "e": 59.24
+  },
+  {
+   "text": "the army,",
+   "s": 59.643,
+   "e": 60.202
+  },
+  {
+   "text": "zero.",
+   "s": 60.405,
+   "e": 60.877
+  },
+  {
+   "text": "The emus,",
+   "s": 61.297,
+   "e": 61.978
+  },
+  {
+   "text": "undefeated.",
+   "s": 62.294,
+   "e": 62.994
+  }
+ ]
+}
