@@ -1,0 +1,35 @@
+CARA RENDER SENDIRI (The Emu War)
+=================================
+Cocok untuk GitHub Codespaces / Ubuntu / Linux biasa. Belum teruji di Termux.
+Ketik perintah satu per satu di terminal, di dalam folder emu-war.
+
+LANGKAH 1 - Pasang alat (cukup sekali)
+  sudo apt-get update && sudo apt-get install -y ffmpeg
+  node -v            (harus 22.6 atau lebih baru; kalau lebih lama, pasang Node 22)
+  npm install playwright
+  npx playwright install --with-deps chromium
+
+LANGKAH 2 - Cek jumlah inti CPU
+  nproc
+  (catat angkanya, misalnya 4)
+
+LANGKAH 3 - Tes cepat: 1 gambar saja
+  HASH="?rs=0.667" node render.mjs stills "300" 1 0.9
+  Kalau muncul file stills/f0300.jpg, berarti semuanya siap.
+
+LANGKAH 4 - Render semuanya
+  Cepat (720x1280, 15 gambar/detik):
+    bash render_full.sh 4 0.667 2
+  Kualitas penuh (1080x1920, 30 gambar/detik, LAMA):
+    bash render_full.sh 4 1 1
+  Ganti angka 4 dengan jumlah inti dari langkah 2.
+  Kalau berhenti di tengah jalan, jalankan perintah yang sama lagi:
+  gambar yang sudah jadi akan dilewati.
+
+HASIL: out/The-Emu-War.mp4
+
+CATATAN
+- Suara dan musik sudah jadi (mix_raw.wav). Tidak perlu membuat ulang.
+- Cerita, kamera, dan adegan ada di web/story.js. Dunia 3D ada di web/main.js.
+- Setelah mengubah web/emu.js, jalankan:
+    cat web/toonbase.js web/roman.js web/emu.js > web/toon.js
